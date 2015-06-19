@@ -70,24 +70,31 @@ header {
      margin-bottom: 20px;
 }
 
-main {
+section {
      background-color: #d8d8d8;
      border: 1px solid black;
      float: left;
      height: 400px;
-     width: 60%;
-     margin-right: 2%;
-     margin-left: 2%;
+     width: 49%;
      margin-bottom: 20px;
+}
+
+.section_left {
+     margin-right: 2%;
 }
 
 aside {
      background-color: #d8d8d8;
      border: 1px solid black;
      float: left;
-     margin-bottom: 10px;
-     height: 400px;
-     width: 18%;
+     margin-bottom: 20px;
+     height: 200px;
+     width: 32%;
+}
+
+.aside_center {
+     margin-left: 2%;
+     margin-right: 2%;
 }
 
 footer {
